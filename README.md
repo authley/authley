@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:leylaufaira@gmail.com"><img src="https://img.shields.io/badge/Email-leylaufaira%40gmail.com-green?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.instagram.com/_shquille"><img src="https://img.shields.io/badge/Instagram-_shquille-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/cihuy2402"><img src="https://img.shields.io/badge/GitHub-cihuy2402-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/authley"><img src="https://img.shields.io/badge/GitHub-authley-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ## 🚀 About Me 
